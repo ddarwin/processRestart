@@ -2,7 +2,7 @@
 
 A New Relic Infrastructure Agent Integration that monitors a process and restarts the process if it is down. Documentation on the structure and use of the files can be found in the [Infrastructure Integrations SDK](https://docs.newrelic.com/docs/infrastructure/integrations-sdk/get-started/intro-infrastructure-integrations-sdk) online docs. The content of this script is very simple. It verifies if the process is down, if so it executes a process start command. 
 
-This is an example Repo and the files have not been tested. It is not a turnkey solution yet. 
+This is an example Repo and the files have not been tested. It is not a turnkey solution, yet. 
 
 ## Files
 
