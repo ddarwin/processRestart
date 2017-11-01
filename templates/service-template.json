@@ -1,0 +1,12 @@
+{
+
+"name":"com.apache2.status",
+ "protocol_version":"1",
+ "integration_version":"1.0.0",
+ "events": [
+ {
+ "summary":"Process was restarted by Integration - bash",
+ "category":"notifications"
+ }
+ ]
+}

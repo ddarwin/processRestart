@@ -1,0 +1,6 @@
+integration_name: com.apache2.status
+instances:
+  - name: apache2_status
+    command: check-status
+    arguments:
+    service: apache2

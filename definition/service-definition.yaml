@@ -1,0 +1,10 @@
+name: com.apache2.status
+protocol_version: 1
+description: Check status of apache2
+os: linux
+commands:
+check-status:
+command:
+- ./bin/service.sh
+interval: 15
+prefix: integration/custom-status
